@@ -1,0 +1,40 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PROFILE_GITHUB_TOKEN }}
+      - name: setup node
+        uses: actions/setup-node@v2.5.2
+        with:
+          node-version: '16.x'
+      - name: cache
+        uses: actions/cache@v1.2.1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Commit and Push README.md
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Lakshay Maheshwari
+          author_email: lakshaymaheshwari81@gmail.com
+          default_author: user_info
+          message: 'other: Updated README.md file using actions'
+          add: '.'
