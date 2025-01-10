@@ -1,0 +1,24 @@
+{
+    "name": "lakshay88",
+    "version": "1.0.0",
+    "description": "Awesome Github Personal README Profile",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lakshay88/lakshay88.git"
+    },
+    "author": "Lakshay Maheshwari",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/lakshay88/lakshay88/issues"
+    },
+    "homepage": "https://github.com/lakshay88/lakshay88#readme",
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "mustache": "^4.2.0"
+    }
+  }
