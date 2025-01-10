@@ -8,14 +8,8 @@ I'm **Lakshay Maheshwari**, working as **SDE-1 @ Sigma Infosolutions Ltd**. I ha
   <a href="https://github.com/lakshay88" target="_blank">
     <img alt="Github" height="25" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/lakshay88" target="_blank">
-    <img alt="Twitter" height="25" src="https://img.shields.io/badge/twitter-%2300acee.svg?logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lakshay88/" target="_blank">
+  <a href="https://www.linkedin.com/in/lakshaymaheshwari81/" target="_blank">
     <img alt="LinkedIn" height="25" src="https://img.shields.io/badge/linkedin-%230e76a8.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://lakshay88.github.io/" target="_blank">
-    <img alt="Website" height="25" src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:lakshaymaheshwari81@gmail.com" target="_blank">
     <img alt="Gmail" height="25" src="https://img.shields.io/badge/Gmail-c14438?logo=Gmail&logoColor=white"/>
@@ -62,7 +56,7 @@ I'm **Lakshay Maheshwari**, working as **SDE-1 @ Sigma Infosolutions Ltd**. I ha
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 12:32 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 12:37 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
