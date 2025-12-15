@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I'm **Lakshay Maheshwari**, working as **SDE-1 @ Sigma Infosolutions Ltd**. I have **3+ years** of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻.
+I'm **Lakshay Maheshwari**, working as **Consultan Developer @ Thoughtworks**. I have **3+ years** of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻.
 
 <br>
 
