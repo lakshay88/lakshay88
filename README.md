@@ -5,6 +5,9 @@ I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks**. 
 <br>
 
 <p align="center">
+  <a href="https://lakshay88.github.io/lakshay88/" target="_blank">
+    <img alt="Portfolio" height="25" src="https://img.shields.io/badge/Live_Portfolio-07111F?style=for-the-badge&logo=google-chrome&logoColor=38bdf8"/>
+  </a>
   <a href="https://github.com/lakshay88" target="_blank">
     <img alt="Github" height="25" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white"/>
   </a>
