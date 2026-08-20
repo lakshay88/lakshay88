@@ -16,9 +16,9 @@ const Contact = () => {
   const socialLinks = [
     {
       icon: <PhoneIcon sx={{ fontSize: 32 }} />,
-      url: 'tel:+917976074625',
+      url: 'tel:+918890360389',
       label: 'Mobile / WhatsApp',
-      text: '+91 7976074625',
+      text: '+91 8890360389',
     },
     {
       icon: <EmailIcon sx={{ fontSize: 32 }} />,
