@@ -2,12 +2,12 @@ import { Project } from '../types';
 
 export const projects: Project[] = [
   {
-    id: 'helios-platform',
-    title: 'Helios Platform — Full-Stack Enterprise Workflow System',
+    id: 'onesec-platform',
+    title: 'OneSec Platform — Full-Stack Enterprise Workflow System',
     company: 'Thoughtworks / Enterprise',
     role: 'Lead Full-Stack Architect',
     description: 'Architected and built a modular enterprise platform from scratch, delivering scalable backend services, secure API layers, and production-grade workflows.',
-    longDescription: 'Helios Platform is a mission-critical full-stack enterprise automation system built to streamline risk assessments, security questionnaires, and contract reviews. Powered by a high-throughput Python FastAPI backend and a responsive React TypeScript frontend, Helios eliminates manual bottlenecks, enforces strict RBAC and auditability, and delivers high measurable business ROI.',
+    longDescription: 'OneSec Platform is a mission-critical full-stack enterprise automation system built to streamline risk assessments, security questionnaires, and contract reviews. Powered by a high-throughput Python FastAPI backend and a responsive React TypeScript frontend, OneSec eliminates manual bottlenecks, enforces strict RBAC and auditability, and delivers high measurable business ROI.',
     features: [
       'Modular full-stack enterprise platform architecture with Python FastAPI & React (TypeScript)',
       'Questionnaire Automation module driving 85% ROI through process automation',

@@ -37,13 +37,18 @@ export const getTechColor = (techName: string): { bg: string; text: string; icon
     'GCP': { bg: '#181818', text: '#ffffff', icon: '#4285F4' },
     'Google Cloud': { bg: '#181818', text: '#ffffff', icon: '#4285F4' },
     
-    // Tools
+    // Tools & Observability
+    'Terraform': { bg: '#181818', text: '#ffffff', icon: '#844FBA' },
+    'Prometheus': { bg: '#181818', text: '#ffffff', icon: '#E6522C' },
+    'Grafana': { bg: '#181818', text: '#ffffff', icon: '#F46800' },
     'Git': { bg: '#181818', text: '#ffffff', icon: '#F05032' },
     'GitHub': { bg: '#181818', text: '#ffffff', icon: '#ffffff' },
+    'GitHub Actions': { bg: '#181818', text: '#ffffff', icon: '#2088FF' },
     'Bitbucket': { bg: '#181818', text: '#ffffff', icon: '#0052CC' },
     'Postman': { bg: '#181818', text: '#ffffff', icon: '#FF6C37' },
     'Swagger': { bg: '#181818', text: '#ffffff', icon: '#85EA2D' },
     'Jest': { bg: '#181818', text: '#ffffff', icon: '#C21325' },
+    'Bash': { bg: '#181818', text: '#ffffff', icon: '#4EAA25' },
     
     // Additional
     'REST API': { bg: '#181818', text: '#ffffff', icon: '#ffffff' },
@@ -54,6 +59,9 @@ export const getTechColor = (techName: string): { bg: string; text: string; icon
     'CI/CD': { bg: '#181818', text: '#ffffff', icon: '#ffffff' },
     'RBAC': { bg: '#181818', text: '#5eead4', icon: '#5eead4' },
     'RAG': { bg: '#181818', text: '#a78bfa', icon: '#a78bfa' },
+    'Claude': { bg: '#181818', text: '#d97706', icon: '#d97706' },
+    'Claude API': { bg: '#181818', text: '#d97706', icon: '#d97706' },
+    'GitHub Copilot': { bg: '#181818', text: '#ffffff', icon: '#ffffff' },
   };
 
   return colorMap[techName] || { bg: '#181818', text: '#ffffff', icon: '#ffffff' };

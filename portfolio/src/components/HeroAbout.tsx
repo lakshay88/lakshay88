@@ -183,7 +183,7 @@ const HeroAbout = () => {
                   </Box>
                   <Box sx={{ p: 2 }}>
                     <Typography sx={{ fontFamily: 'inherit', fontSize: '.78rem', color: 'secondary.main', mb: 1 }}>$ kubectl get platform</Typography>
-                    <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary', mb: .7 }}>SYSTEM&nbsp;&nbsp;&nbsp;&nbsp; helios-enterprise</Typography>
+                    <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary', mb: .7 }}>SYSTEM&nbsp;&nbsp;&nbsp;&nbsp; onesec-enterprise</Typography>
                     <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary', mb: .7 }}>STATUS&nbsp;&nbsp;&nbsp;&nbsp; <Box component="span" sx={{ color: 'secondary.main' }}>● HEALTHY</Box></Typography>
                     <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary' }}>METRICS&nbsp;&nbsp;&nbsp; 85% ROI / RBAC / TDD</Typography>
                   </Box>

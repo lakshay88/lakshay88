@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 const chapters = [
   {
     code: '01 / FULL-STACK ENTERPRISE WORKFLOWS',
-    company: 'Helios Platform · Thoughtworks',
+    company: 'OneSec Platform · Thoughtworks',
     title: 'Enterprise workflow automation, RBAC, and high ROI',
     description: 'Architecting full-stack modular platforms in FastAPI and React (TypeScript), delivering 85% ROI on automated questionnaires and 50% ROI on contract review workflows with end-to-end SDLC ownership.',
     signals: ['FastAPI & React', 'RBAC & Auditability', '85% ROI Automation', 'Docker Workflows'],
@@ -46,7 +46,7 @@ const EngineeringJourney = () => (
           </Typography>
         </Box>
 
-        <Box sx={{ position: 'relative', '&::before': { content: '""', position: 'absolute', left: { xs: 12, sm: 18 }, top: 18, bottom: 18, width: 1, background: 'linear-gradient(#5eead4, rgba(56,189,248,.15))' } }}>
+        <Box sx={{ position: 'relative', '&::before': { content: '""', position: 'absolute', left: { xs: 12, sm: 18 }, top: 18, bottom: 18, width: '2px', background: 'linear-gradient(180deg, #5eead4 0%, rgba(56,189,248,0.3) 70%, rgba(56,189,248,0.05) 100%)' } }}>
           {chapters.map((chapter, index) => (
             <Box
               key={chapter.code}

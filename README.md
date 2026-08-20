@@ -2,7 +2,7 @@
 
 I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks** with **4.5+ years** of software engineering experience. I specialize in architecting full-stack enterprise platforms, scalable distributed microservices, event-driven architectures, and AI workflow automation using **Golang, Python, FastAPI, React, TypeScript, PostgreSQL, and Cloud Infrastructure** 💡.
 
-Currently architecting and engineering the **Helios Platform** — delivering high-impact enterprise workflow automation (85% ROI Questionnaire automation, 50% ROI Contract Review workflows, RBAC, and Dockerized releases) ✨.
+Currently architecting and engineering the **OneSec Platform** — delivering high-impact enterprise workflow automation (85% ROI Questionnaire automation, 50% ROI Contract Review workflows, RBAC, and Dockerized releases) ✨.
 
 <br>
 
@@ -82,7 +82,7 @@ Currently architecting and engineering the **Helios Platform** — delivering hi
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 20 August at 9:45 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 20 August at 9:51 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>

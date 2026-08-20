@@ -57,7 +57,7 @@ const AnimatedBackdrop = () => (
         left: 0,
         right: 0,
         top: 0,
-        height: 1,
+        height: '2px',
         background: 'linear-gradient(90deg, transparent 4%, rgba(94,234,212,.45) 45%, rgba(56,189,248,.28) 65%, transparent 96%)',
         boxShadow: '0 0 20px rgba(94,234,212,.2)',
         willChange: 'transform, opacity',
