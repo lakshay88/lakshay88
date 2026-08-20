@@ -40,8 +40,11 @@ export const getTechColor = (techName: string): { bg: string; text: string; icon
     
     // Tools & Observability
     'Terraform': { bg: '#181818', text: '#ffffff', icon: '#844FBA' },
+    'OpenSearch': { bg: '#181818', text: '#ffffff', icon: '#005EB8' },
+    'Elasticsearch': { bg: '#181818', text: '#ffffff', icon: '#005571' },
     'Prometheus': { bg: '#181818', text: '#ffffff', icon: '#E6522C' },
     'Grafana': { bg: '#181818', text: '#ffffff', icon: '#F46800' },
+    'Distributed Logging': { bg: '#181818', text: '#ffffff', icon: '#5eead4' },
     'Git': { bg: '#181818', text: '#ffffff', icon: '#F05032' },
     'GitHub': { bg: '#181818', text: '#ffffff', icon: '#ffffff' },
     'GitHub Actions': { bg: '#181818', text: '#ffffff', icon: '#2088FF' },
