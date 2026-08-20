@@ -36,6 +36,7 @@ export const getTechColor = (techName: string): { bg: string; text: string; icon
     'AWS': { bg: '#181818', text: '#ffffff', icon: '#FF9900' },
     'GCP': { bg: '#181818', text: '#ffffff', icon: '#4285F4' },
     'Google Cloud': { bg: '#181818', text: '#ffffff', icon: '#4285F4' },
+    'GCloud': { bg: '#181818', text: '#ffffff', icon: '#4285F4' },
     
     // Tools & Observability
     'Terraform': { bg: '#181818', text: '#ffffff', icon: '#844FBA' },

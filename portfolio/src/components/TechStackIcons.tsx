@@ -88,6 +88,7 @@ const iconMap: Record<string, React.ReactElement> = {
   'AWS': <SiAmazonaws />,
   'GCP': <SiGooglecloud />,
   'Google Cloud': <SiGooglecloud />,
+  'GCloud': <SiGooglecloud />,
   
   // Tools
   'Git': <SiGit />,

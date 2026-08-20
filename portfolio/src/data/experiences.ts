@@ -23,6 +23,7 @@ export const experiences: Experience[] = [
       'TypeScript',
       'React',
       'Node.js',
+      'Google Cloud',
       'PostgreSQL',
       'Docker',
       'RBAC',
@@ -50,16 +51,17 @@ export const experiences: Experience[] = [
       'Gin',
       'GORM',
       'Docker',
+      'Google Cloud',
     ],
   },
   {
     id: 'sigma-infosolutions',
     title: 'Software Engineer',
-    company: 'Sigma Infosolutions Ltd',
+    company: 'Sigma Infosolutions (Lendfoundry)',
     location: 'Jodhpur, India',
     period: 'Oct 2022 - Dec 2024',
-    shortDescription: 'Developed scalable loan origination systems (LOS) and third-party integrations for high-traffic fintech platforms.',
-    companyWebsite: 'https://www.sigmainfo.net/',
+    shortDescription: 'Developed scalable loan origination systems (LOS) and third-party fintech integrations for Lendfoundry (a specialized digital lending platform by Sigma Infosolutions).',
+    companyWebsite: 'https://www.lendfoundry.com/',
     achievements: [
       'Built and maintained a scalable loan origination platform with a Golang backend and React frontend, optimizing performance for high traffic via RESTful APIs.',
       'Managed Dgraph and MySQL databases and integrated third-party services (Plaid, Clear, Persona, Ocrolus), boosting submission rates and platform functionality.',
@@ -77,6 +79,7 @@ export const experiences: Experience[] = [
       'RabbitMQ',
       'Jenkins',
       'Bitbucket',
+      'AWS'
     ],
   },
   {
@@ -100,6 +103,7 @@ export const experiences: Experience[] = [
       'AWS',
       'React.js',
       'Bash',
+      'Azure',
     ],
   },
 ];

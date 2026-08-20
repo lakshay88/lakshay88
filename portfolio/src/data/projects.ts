@@ -16,7 +16,7 @@ export const projects: Project[] = [
       'Dockerized microservices deployment ensuring environment parity and release consistency',
       'End-to-end SDLC ownership: system design, API development, automated testing, and production rollout',
     ],
-    techStack: ['Python', 'FastAPI', 'TypeScript', 'React', 'Node.js', 'PostgreSQL', 'Docker', 'REST APIs', 'RBAC'],
+    techStack: ['Python', 'FastAPI', 'TypeScript', 'React', 'Node.js', 'Google Cloud', 'PostgreSQL', 'Docker', 'REST APIs', 'RBAC'],
     duration: '2025 - Present',
     challenges: [
       'Orchestrating multi-stakeholder contract validation logic with real-time feedback',
@@ -33,10 +33,10 @@ export const projects: Project[] = [
   {
     id: 'los-platform',
     title: 'Loan Origination Platform (LOS) & Fintech Engine',
-    company: 'Sigma Infosolutions / Fin-Tech',
+    company: 'Sigma Infosolutions · Lendfoundry',
     role: 'Software Engineer',
     description: 'A high-traffic Loan Origination System with Golang backend, gRPC microservices, graph database modeling, and third-party financial verification integrations.',
-    longDescription: 'A scalable fintech loan origination engine engineered to handle high-concurrency loan applications, KYC identity checks, and automated risk scoring. Built using Golang microservices, gRPC, Dgraph graph database, and third-party financial APIs, the platform guarantees high throughput, low latency, and fault-tolerant data pipelines.',
+    longDescription: 'A scalable fintech loan origination engine engineered to handle high-concurrency loan applications, KYC identity checks, and automated risk scoring for Lendfoundry (a digital lending platform product by Sigma Infosolutions). Built using Golang microservices, gRPC, Dgraph graph database, and third-party financial APIs, the platform guarantees high throughput, low latency, and fault-tolerant data pipelines.',
     features: [
       'High-throughput Golang backend with RESTful and gRPC microservice communication',
       'Graph database modeling with Dgraph and relational persistence in MySQL',
@@ -45,6 +45,7 @@ export const projects: Project[] = [
       'Automated CI/CD pipelines via Bitbucket and Jenkins, cutting deployment times by 70%',
     ],
     techStack: ['Golang', 'React.js', 'PostgreSQL', 'MySQL', 'Dgraph', 'Redis', 'RabbitMQ', 'Docker', 'REST APIs'],
+    link: 'https://www.lendfoundry.com/',
     duration: '2022 - 2024',
     challenges: [
       'Maintaining real-time borrower verification with high-latency external financial providers',
