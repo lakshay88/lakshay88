@@ -17,14 +17,14 @@ const About = () => {
 
   const stats = [
     {
-      number: '3+',
+      number: '4.5+',
       label: 'Years of Experience',
       description: 'Building scalable systems',
       icon: <WorkIcon sx={{ fontSize: 32 }} />,
     },
     {
-      number: '3',
-      label: 'Major Projects',
+      number: '5+',
+      label: 'Enterprise Platforms',
       description: 'Production-grade solutions',
       icon: <FolderIcon sx={{ fontSize: 32 }} />,
     },
@@ -66,12 +66,12 @@ const About = () => {
             >
               <Paper elevation={0} sx={{ p: { xs: 3, sm: 4 }, backgroundColor: 'background.paper', height: '100%', borderRadius: 3 }}>
                 <Typography variant="body1" paragraph sx={{ fontSize: '1.1rem', lineHeight: 1.8, mb: 3 }}>
-                  Hello, I'm <strong>Lakshay Maheshwari</strong> — working as <strong>Consultant Developer @ Thoughtworks</strong>.
-                  I'm experienced in engineering fast, scalable, production-grade distributed systems, cloud-native microservices, and modern web applications.
-                  Comfortable owning features end-to-end — from system architecture, Go backend APIs, and TDD to cloud deployment and responsive UIs.
+                  Hello, I'm <strong>Lakshay Maheshwari</strong> — working as <strong>Consultant Developer @ Thoughtworks</strong> with 4.5+ years of software engineering experience.
+                  I specialize in architecting fast, scalable, production-grade distributed systems, full-stack enterprise platforms (FastAPI, React, TypeScript), and cloud-native microservices.
+                  Comfortable owning platforms end-to-end — from system architecture, backend APIs, and TDD to Docker/Kubernetes deployment and cross-functional production rollouts.
                 </Typography>
                 <Typography variant="body1" paragraph sx={{ fontSize: '1.1rem', lineHeight: 1.8, mb: 3 }}>
-                  Specializing in <strong>Go, Python, React, Cloud & Kubernetes</strong>, focusing on clean architecture, resilient event-driven systems, and engineering best practices.
+                  Specializing in <strong>Golang, Python, FastAPI, React, Cloud & Kubernetes</strong>, focusing on clean architecture, resilient event-driven systems, and engineering best practices.
                 </Typography>
                 <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap', mt: 4 }}>
                   <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>

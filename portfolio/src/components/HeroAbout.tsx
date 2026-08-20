@@ -8,33 +8,24 @@ import { fadeInUp, staggerContainer, staggerItem } from '../utils/animations';
 const tickerTechnologies = [
   { label: 'GO (GOLANG)', url: 'https://go.dev/' },
   { label: 'PYTHON', url: 'https://www.python.org/' },
+  { label: 'FASTAPI', url: 'https://fastapi.tiangolo.com/' },
   { label: 'REACT', url: 'https://react.dev/' },
   { label: 'TYPESCRIPT', url: 'https://www.typescriptlang.org/' },
-  { label: 'JAVASCRIPT', url: 'https://developer.mozilla.org/docs/Web/JavaScript' },
-  { label: 'KUBERNETES', url: 'https://kubernetes.io/' },
   { label: 'DOCKER', url: 'https://www.docker.com/' },
-  { label: 'AWS', url: 'https://aws.amazon.com/' },
-  { label: 'GOOGLE CLOUD (GCP)', url: 'https://cloud.google.com/' },
+  { label: 'KUBERNETES', url: 'https://kubernetes.io/' },
+  { label: 'POSTGRESQL', url: 'https://www.postgresql.org/' },
   { label: 'RABBITMQ', url: 'https://www.rabbitmq.com/' },
   { label: 'KAFKA', url: 'https://kafka.apache.org/' },
   { label: 'REDIS', url: 'https://redis.io/' },
-  { label: 'POSTGRESQL', url: 'https://www.postgresql.org/' },
-  { label: 'MYSQL', url: 'https://www.mysql.com/' },
-  { label: 'ELASTICSEARCH', url: 'https://www.elastic.co/' },
+  { label: 'AWS', url: 'https://aws.amazon.com/' },
+  { label: 'GOOGLE CLOUD (GCP)', url: 'https://cloud.google.com/' },
+  { label: 'GENAI & RAG', url: 'https://cloud.google.com/vertex-ai' },
+  { label: 'REST APIS & GRPC', url: 'https://grpc.io/' },
+  { label: 'RBAC & SECURITY', url: 'https://auth0.com/intro-to-iam/what-is-role-based-access-control-rbac' },
   { label: 'TEST-DRIVEN DEVELOPMENT (TDD)', url: 'https://en.wikipedia.org/wiki/Test-driven_development' },
-  { label: 'MICROSERVICES', url: 'https://microservices.io/' },
-  { label: 'EVENT-DRIVEN ARCHITECTURE', url: 'https://aws.amazon.com/event-driven-architecture/' },
   { label: 'DISTRIBUTED SYSTEMS', url: 'https://en.wikipedia.org/wiki/Distributed_computing' },
-  { label: 'SYSTEM DESIGN', url: 'https://en.wikipedia.org/wiki/Systems_design' },
-  { label: 'GRAPHQL', url: 'https://graphql.org/' },
-  { label: 'REST APIS', url: 'https://developer.mozilla.org/docs/Glossary/REST' },
-  { label: 'FLUTTER', url: 'https://flutter.dev/' },
-  { label: 'MATERIAL UI', url: 'https://mui.com/' },
   { label: 'CI/CD & GITHUB ACTIONS', url: 'https://github.com/features/actions' },
   { label: 'JENKINS', url: 'https://www.jenkins.io/' },
-  { label: 'TERRAFORM', url: 'https://developer.hashicorp.com/terraform' },
-  { label: 'NGINX', url: 'https://www.nginx.com/' },
-  { label: 'BASH / LINUX', url: 'https://www.gnu.org/software/bash/' },
 ];
 
 const HeroAbout = () => {
@@ -115,7 +106,7 @@ const HeroAbout = () => {
               }}
             >
               <motion.span variants={titleVariants}>
-                I engineer resilient platforms and scalable distributed systems.
+                I engineer resilient enterprise platforms and scalable distributed systems.
               </motion.span>
             </Typography>
           </motion.div>
@@ -136,7 +127,7 @@ const HeroAbout = () => {
                 fontWeight: 400,
               }}
             >
-              Distributed Microservices · Cloud-Native Infrastructure · Test-Driven Development (TDD)
+              Full-Stack Architecture · Distributed Microservices · Cloud-Native Infrastructure
             </Typography>
           </motion.div>
 
@@ -155,7 +146,7 @@ const HeroAbout = () => {
                 maxWidth: 840,
               }}
             >
-              Go, Python, React, Kubernetes and Cloud Systems—from low-latency microservices and event-driven worker pipelines to clean architectures that scale.
+              Golang, Python, FastAPI, React, TypeScript, and Cloud Systems—from modular enterprise workflow platforms and high-throughput worker pools to clean architectures that scale.
             </Typography>
           </motion.div>
         </Container>
@@ -183,7 +174,7 @@ const HeroAbout = () => {
             >
               <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', md: '1.25fr .75fr' }, gap: 4, alignItems: 'center' }}>
                 <Typography variant="body1" sx={{ fontSize: { xs: '0.95rem', sm: '1.05rem' }, lineHeight: 1.85, color: 'text.primary' }}>
-                  I'm <strong>Lakshay Maheshwari</strong>, working as <strong>Consultant Developer @ Thoughtworks</strong> with 3+ years of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies, design robust cloud-native microservices, and build high-performance systems ✨.
+                  I'm <strong>Lakshay Maheshwari</strong>, working as <strong>Consultant Developer @ Thoughtworks</strong> with <strong>4.5+ years of software engineering experience</strong>. Experienced in building enterprise workflow platforms, high-throughput distributed microservices, and AI-powered automation systems with high ROI and strict reliability standards ✨.
                 </Typography>
                 <Box sx={{ border: '1px solid rgba(94,234,212,.22)', borderRadius: 2.5, overflow: 'hidden', backgroundColor: 'rgba(3,10,19,.85)', textAlign: 'left', fontFamily: 'ui-monospace, SFMono-Regular, Menlo, monospace' }}>
                   <Box sx={{ display: 'flex', gap: .75, px: 2, py: 1.25, borderBottom: '1px solid', borderColor: 'divider' }}>
@@ -192,14 +183,14 @@ const HeroAbout = () => {
                   </Box>
                   <Box sx={{ p: 2 }}>
                     <Typography sx={{ fontFamily: 'inherit', fontSize: '.78rem', color: 'secondary.main', mb: 1 }}>$ kubectl get platform</Typography>
-                    <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary', mb: .7 }}>SYSTEM&nbsp;&nbsp;&nbsp;&nbsp; thoughtworks-cluster</Typography>
+                    <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary', mb: .7 }}>SYSTEM&nbsp;&nbsp;&nbsp;&nbsp; helios-enterprise</Typography>
                     <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary', mb: .7 }}>STATUS&nbsp;&nbsp;&nbsp;&nbsp; <Box component="span" sx={{ color: 'secondary.main' }}>● HEALTHY</Box></Typography>
-                    <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary' }}>PRACTICES&nbsp; TDD / CI-CD / Clean-Code</Typography>
+                    <Typography sx={{ fontFamily: 'inherit', fontSize: '.72rem', color: 'text.secondary' }}>METRICS&nbsp;&nbsp;&nbsp; 85% ROI / RBAC / TDD</Typography>
                   </Box>
                 </Box>
               </Box>
               <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr 1fr', md: 'repeat(4, 1fr)' }, gap: 2.5, mt: 3, pt: 3, borderTop: '1px solid', borderColor: 'divider' }}>
-                {[['3+ Years', 'coding experience'], ['< 25 ms', 'API response latency'], ['99.9%', 'uptime & reliability'], ['100%', 'TDD test coverage']].map(([value, label]) => (
+                {[['4.5+ Years', 'experience'], ['85% ROI', 'automation impact'], ['< 25 ms', 'API response latency'], ['99.9%', 'uptime & reliability']].map(([value, label]) => (
                   <Box key={label}>
                     <Typography variant="h4" color="secondary.main" sx={{ fontWeight: 800, fontFamily: 'ui-monospace, SFMono-Regular, Menlo, monospace' }}>{value}</Typography>
                     <Typography variant="body2" color="text.secondary" sx={{ textTransform: 'uppercase', letterSpacing: '.09em', fontSize: '.68rem' }}>{label}</Typography>

@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
+import PhoneIcon from '@mui/icons-material/Phone';
 import SendIcon from '@mui/icons-material/Send';
 import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
 import { whileInViewFadeInUp, staggerContainer, staggerItem } from '../utils/animations';
@@ -14,10 +15,16 @@ const Contact = () => {
 
   const socialLinks = [
     {
-      icon: <GitHubIcon sx={{ fontSize: 32 }} />,
-      url: 'https://github.com/lakshay88',
-      label: 'GitHub',
-      text: '@lakshay88',
+      icon: <PhoneIcon sx={{ fontSize: 32 }} />,
+      url: 'tel:+917976074625',
+      label: 'Mobile / WhatsApp',
+      text: '+91 7976074625',
+    },
+    {
+      icon: <EmailIcon sx={{ fontSize: 32 }} />,
+      url: 'mailto:lakshaymaheshwari81@gmail.com',
+      label: 'Email',
+      text: 'lakshaymaheshwari81@gmail.com',
     },
     {
       icon: <LinkedInIcon sx={{ fontSize: 32 }} />,
@@ -26,10 +33,10 @@ const Contact = () => {
       text: 'Connect on LinkedIn',
     },
     {
-      icon: <EmailIcon sx={{ fontSize: 32 }} />,
-      url: 'mailto:lakshaymaheshwari81@gmail.com',
-      label: 'Email',
-      text: 'lakshaymaheshwari81@gmail.com',
+      icon: <GitHubIcon sx={{ fontSize: 32 }} />,
+      url: 'https://github.com/lakshay88',
+      label: 'GitHub',
+      text: '@lakshay88',
     },
   ];
 

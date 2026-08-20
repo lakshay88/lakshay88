@@ -1,12 +1,17 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks**. I have **3+ years** of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻.
+I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks** with **4.5+ years** of software engineering experience. I specialize in architecting full-stack enterprise platforms, scalable distributed microservices, event-driven architectures, and AI workflow automation using **Golang, Python, FastAPI, React, TypeScript, PostgreSQL, and Cloud Infrastructure** 💡.
+
+Currently architecting and engineering the **Helios Platform** — delivering high-impact enterprise workflow automation (85% ROI Questionnaire automation, 50% ROI Contract Review workflows, RBAC, and Dockerized releases) ✨.
 
 <br>
 
 <p align="center">
   <a href="https://lakshay88.github.io/lakshay88/" target="_blank">
     <img alt="Portfolio" height="25" src="https://img.shields.io/badge/Live_Portfolio-07111F?style=for-the-badge&logo=google-chrome&logoColor=38bdf8"/>
+  </a>
+  <a href="https://lakshay88.github.io/lakshay88/resume.pdf" target="_blank">
+    <img alt="Resume" height="25" src="https://img.shields.io/badge/Resume-174A7E?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
   </a>
   <a href="https://github.com/lakshay88" target="_blank">
     <img alt="Github" height="25" src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=white"/>
@@ -21,10 +26,28 @@ I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks**. 
 
 ---
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</p>
 
 <br>
 
@@ -41,12 +64,12 @@ I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks**. 
 
 ---
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br>
 
-[![Reward-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=hotel-booking-mean-stack&border_radius=10)](https://github.com/lakshay88/reward-management-system) [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=lakshay88.github.io&border_radius=10)](https://github.com/lakshay88/lakshay88.github.io)
-[![RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=read-books&border_radius=10)](https://github.com/lakshay88/read-books) [![Learn TDD](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=learn-tdd-in-react&border_radius=10)](https://github.com/lakshay88/rabbitmq-golang)
-[![Live-Request-Watcher](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=deep-dive-dsa&border_radius=10)](https://github.com/lakshay88/live-request-watcher)
+[![Reward-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=reward-management-system&border_radius=10)](https://github.com/lakshay88/reward-management-system) [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=lakshay88.github.io&border_radius=10)](https://github.com/lakshay88/lakshay88.github.io)
+[![RabbitMQ-Golang](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=rabbitmq-golang&border_radius=10)](https://github.com/lakshay88/rabbitmq-golang) [![Learn-TDD-React](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=learn-tdd-in-react&border_radius=10)](https://github.com/lakshay88/learn-tdd-in-react)
+[![Live-Request-Watcher](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=live-request-watcher&border_radius=10)](https://github.com/lakshay88/live-request-watcher) [![Deep-Dive-DSA](https://github-readme-stats.vercel.app/api/pin/?username=lakshay88&repo=deep-dive-dsa&border_radius=10)](https://github.com/lakshay88/deep-dive-dsa)
 
 <br/>
 <h4 align="center">
@@ -59,7 +82,7 @@ I'm **Lakshay Maheshwari**, working as **Consultant Developer @ Thoughtworks**. 
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March at 6:21 am IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 20 August at 9:45 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>

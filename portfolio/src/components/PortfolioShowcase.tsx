@@ -71,31 +71,32 @@ const PortfolioShowcase = () => {
   };
 
   const skillCategories = {
-    'Languages & Core': ['Go', 'Python', 'TypeScript', 'JavaScript', 'SQL', 'HTML5', 'CSS3', 'Bash'],
-    'Backend & Distributed Systems': [
+    'Languages & Frameworks': ['Golang', 'Python', 'FastAPI', 'Gin', 'GORM', 'TypeScript', 'JavaScript', 'SQL', 'HTML5', 'CSS3', 'Bash'],
+    'AI, Data & Architecture': [
+      'RAG (Retrieval-Augmented Generation)',
+      'Google Vertex AI',
+      'Gemini',
       'REST APIs',
+      'gRPC',
       'Microservices',
       'Event-Driven Architecture',
-      'Distributed Systems',
+      'RBAC & Security',
       'System Design',
-      'GraphQL',
     ],
-    'Frontend & Web': ['React', 'TypeScript', 'JavaScript', 'Redux', 'Material UI', 'TailwindCSS', 'Flutter', 'HTML5', 'CSS3'],
-    'Data, Messaging & Caching': ['RabbitMQ', 'Kafka', 'Redis', 'PostgreSQL', 'MySQL', 'MongoDB', 'Elasticsearch', 'SQL'],
+    'Frontend & Web': ['React', 'TypeScript', 'JavaScript', 'Redux', 'Material UI', 'TailwindCSS', 'HTML5', 'CSS3'],
+    'Data, Messaging & Caching': ['PostgreSQL', 'MySQL', 'DGraph', 'Redis', 'RabbitMQ', 'Kafka', 'SQL'],
     'Cloud, DevOps & Tooling': [
       'Docker',
       'Kubernetes',
+      'Google Cloud (GCP)',
       'AWS',
-      'GCP',
-      'Terraform',
       'Jenkins',
       'CI/CD',
-      'Nginx',
       'Git',
       'GitHub',
+      'Bitbucket',
       'Jest',
       'Postman',
-      'Swagger/OpenAPI',
     ],
   };
 
