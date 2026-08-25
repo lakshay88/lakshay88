@@ -46,27 +46,5 @@ export const openSourceContributions: OpenSourceContribution[] = [
       },
     ],
     technologies: ['Go', 'RabbitMQ', 'Docker', 'Prometheus', 'Event-Driven Architecture'],
-  },
-  {
-    id: 'learn-tdd-in-react',
-    title: 'Learn TDD in React & Clean Architecture',
-    description: 'An open-source educational repository and clean architecture blueprint demonstrating Test-Driven Development (TDD) principles in modern frontend apps.',
-    repository: 'https://github.com/lakshay88/learn-tdd-in-react',
-    organization: 'lakshay88',
-    contributions: [
-      'Constructed complete Red-Green-Refactor development workflow examples',
-      'Demonstrated domain-driven decoupling of UI components from business logic',
-      'Authored in-depth guides on effective mocking, testing custom hooks, and testing user interactions',
-    ],
-    pullRequests: [
-      {
-        number: 1,
-        title: 'feat: clean architecture layered pattern with full unit test coverage',
-        url: 'https://github.com/lakshay88/learn-tdd-in-react',
-        status: 'merged',
-        date: '2023',
-      },
-    ],
-    technologies: ['React.js', 'TypeScript', 'Jest', 'React Testing Library', 'TDD'],
-  },
+  }
 ];

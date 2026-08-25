@@ -6,7 +6,7 @@ PDF := $(OUT)/Lakshay_Maheshwari_Resume.pdf
 
 all: $(PDF)
 
-$(PDF): $(TEX) config/contact.tex sections/summary.tex sections/skills.tex sections/experience.tex sections/projects.tex sections/awards.tex sections/education.tex
+$(PDF): $(TEX) $(wildcard config/*.tex) $(wildcard sections/*.tex)
 	@mkdir -p $(OUT)
 	@if command -v tectonic >/dev/null 2>&1; then \
 		echo "Building with Tectonic..."; \
