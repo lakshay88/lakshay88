@@ -16,7 +16,7 @@ export const projects: Project[] = [
       'Dockerized microservices deployment ensuring environment parity and release consistency',
       'End-to-end SDLC ownership: system design, API development, automated testing, and production rollout',
     ],
-    techStack: ['Python', 'FastAPI', 'TypeScript', 'React', 'Node.js', 'Google Cloud', 'PostgreSQL', 'Docker', 'REST APIs', 'RBAC'],
+    techStack: ['Python', 'FastAPI', 'TypeScript', 'Golang', 'React', 'Node.js', 'Google Cloud', 'PostgreSQL', 'Docker', 'REST APIs', 'RBAC'],
     duration: '2025 - Present',
     challenges: [
       'Orchestrating multi-stakeholder contract validation logic with real-time feedback',
